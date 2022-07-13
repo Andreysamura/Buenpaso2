@@ -9,9 +9,9 @@
     </head>
 
     <body>
-<?php //parte de encabezado
-include("encabezado.php")
-?>
+    <?php //parte de encabezado
+    include("encabezado.php")
+    ?>
 
     
         <!-- Slide de imagenes -->

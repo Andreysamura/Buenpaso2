@@ -6,7 +6,6 @@
 <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 
-    <body>
     <header>
             <nav class="navbar navbar-expand-lg bg-light fixed-top">
                 <div class="container-fluid">  <!-- Inicio del div contenedor principal-->
@@ -29,5 +28,3 @@
                 </div> <!-- Cierre del div contenedor principal -->
             </nav>
         </header>
-    </body>
-</html>
